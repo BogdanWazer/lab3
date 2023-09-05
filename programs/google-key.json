@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "genial-broker-396814",
+  "private_key_id": "a61b99e0327b0c59d5ca1166e1cd52fd3b57d233",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMBL6knS5RtdKi\nbGFM5xFJTMl99Y5QtyrvP7Jau/8qska2DAxXZymNQBTLvjva187MzueN+SJFQCy4\nShJuZP3txw18fbUQoPZNf5JCT/OR7KxMqKqSlR5PMg+mwR4l4vbQtFd66QDPsjXs\nN9ZsyUSS2fp8d7371EoV5KY7+rAF4cEIcPFDCBXAQCTLV1Fiy0i9WceT0+4SLH6+\n00UH7PWb+KWW15Q3xLlT0eBoqdB5XokEUZwdyY4OIawuZAQvn6+20w7ty4SejFr7\nk3/hVEkXCUukYwLP+MHTsXsS05Q97EXmWKbvSX89MjpXaeg0YZ20Iy9M7zXa7BF0\nRAb7NsOTAgMBAAECggEAWNm6Ixu3B+vdC1KS/3hkTV1tJPeTnrBeuOovJRfZtUEF\nzZOqrkflzze4ttCm5ZR14jk7m9eDptAfibTsmPpPokW9qFlgyRiom7CyxEFojMUb\ndplAC+14UTo2mcNh+1MAdX0M2iDucwWkOTdKIX9351KaJanKagmWqDk3ckinby+O\njY1Zipsm18gFj3mKOcOLKBfps91UQtiOX0niILaIoM1LoL2S2rH8spx0JeAOOLq3\nFUS+Jj5mHbyze0/jPhwJH70Jx71T32nnxV7TWYUj73FrehtMa68ay4K2906ve2Nz\nHG3v07h4lj3U0n6PUO9F3qIqq3CZ4x2Vpn7bdMJGEQKBgQDqy12FLfPtKq+luGDU\nBX+5vK4wsFnG7DRMgu6+npQqvPdAqv32v1QCcgMXX5t223cHeOitS4xyDVbFnUOQ\nYFnFslUexeEIuxu1jMcjsCSVhN+PeIk6uPa1LwYeyY4P1r4xdULyPGOb9OT63prx\ncfdzhnYb1fyCVdA7wNzm0aUEAwKBgQDecdEY36fBP5k2KXGY65C2noR+X2ujqhTV\nY36n6CebENJ4santsLmD8/S6XhIVv1Dd4VIA3QGLfdBrWqy7tVcPv9RrvP2miSbO\n+gCfcQof45xlYhhbOVe2N7Rf/GOWx9pOQnGJZcyD34EKiBfmdkuN0Neus5VN8tYJ\nevsUqsRVMQKBgC0RxG3gGEaaPwUsk0mflJjuovEtqM4KYS+eon1sqzxY8Y00RXOr\n3lBp2jYOYCU8k2iXyPIa4mayMMnWGjYIiLLuPHCfw0aNxA/haghrs1oQG2nK1Wy0\nPIci86XNQru/mNqdi7A771Lse1e8izl1iu5eDSXiuYm7NzGBH+Yer/JJAoGAL4yS\nzsdYO6XVoU9AmhiYqYC+/6h0ANslcuu+sjOc67ev1d7cXROuxDcMtB3RrdZkedll\nRwv2/ZNaTuhmDgXYY2R1CsauTb/5jLrCEVL/gAuObdmHLVDXn/rOUspHm36C+sGX\nNXCORA4trkujGD9nLRxcTlrS6oOjHwmrzCIor7ECgYBJGDFJYriazDG33yMH0I/S\nhKYb6iyqf+DE77ZGFm6cN0bhLilhni2+K2wuD66Rw6jUZRJsOdRWKFd+Py73ie8A\nWU/6KEoSGI8SMZoCAUP7Wj490zxESlUHpJRB/osABTnm3vF+8XzZ9V/p1SImR0Av\nVGRWoBeN59gOLOrCb7LRrg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bogdan-kichak@genial-broker-396814.iam.gserviceaccount.com",
+  "client_id": "106819016647869693758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bogdan-kichak%40genial-broker-396814.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
