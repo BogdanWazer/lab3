@@ -22,5 +22,3 @@ def TranslateFromFile():
     path = filePath
     translatedText = MyMemoryTranslator(source='uk-UA', target='vi-VN').translate_file(path)
     print(translatedText)
-
-LangDetect()
